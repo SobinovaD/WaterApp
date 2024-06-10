@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.WaterApp" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.WaterApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+</resources>
